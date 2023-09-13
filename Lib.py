@@ -138,5 +138,3 @@ def Main(file_name):
         except ValueError:
             print("Это не число")
             input("\nНажмите эникей")
-
-
